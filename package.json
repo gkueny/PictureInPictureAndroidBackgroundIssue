@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.74.1"
+    "react-native": "0.74.1",
+    "react-native-video": "https://github.com/YangJonghun/react-native-video#15cd0e856e44cb77eef2c036cc11fe8771958a8e"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
