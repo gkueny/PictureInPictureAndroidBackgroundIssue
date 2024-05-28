@@ -10,3 +10,8 @@ see https://github.com/TheWidlarzGroup/react-native-video/pull/3385#issuecomment
 - see that video go to PiP mode
 - close the PiP window
 - hear that sound continue to play
+
+
+
+https://github.com/gkueny/PictureInPictureAndroidBackgroundIssue/assets/10655690/c59a63b5-04b8-4fd5-a805-08a689ddf019
+
